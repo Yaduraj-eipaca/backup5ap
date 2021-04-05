@@ -1,0 +1,114 @@
+
+
+body
+{
+    background-color: #D8F0FF;
+}
+
+.logo
+{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 200px;
+    top: -30px;
+    left: 32px;
+    
+    width: 30%;
+    height: 30%;
+}
+
+.main
+{
+    font-family: fantasy;
+    
+    
+    margin-top: 250px;
+    font-size: 50px;
+}
+
+
+.third
+{
+
+    font-family: Arial, Helvetica, sans-serif;
+    
+    font-size: 20px;
+    line-height: 32px;
+    margin-left: 200px;
+    margin-top:100px;
+    
+    text-align: justify;
+    margin-right: 200px;
+}
+
+
+
+
+
+.fourth{
+  font-family: Arial, Helvetica, sans-serif;
+   
+    
+  font-size: 20px;
+  line-height: 32px;
+  margin-left: 200px;
+  margin-top: 20px;
+  
+  text-align: justify;
+  margin-right: 200px;
+}
+.fifth{
+  font-family: Arial, Helvetica, sans-serif;
+    
+  font-size: 20px;
+  line-height: 32px;
+  margin-left: 200px;
+  margin-top:20px;
+ 
+  text-align: justify;
+  margin-right: 200px;
+}
+.sixth{
+  font-family: Arial, Helvetica, sans-serif;
+    
+  font-size: 20px;
+  line-height: 32px;
+  margin-left: 200px;
+  margin-top:20px;
+
+  text-align: justify;
+  margin-right: 200px;
+}
+
+
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #FB8D77;
+    margin-left:700px;
+    margin-right:200px;
+  }
+  
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+  .topnav a:hover {
+    background-color:  #add8e6;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #FB8D77;
+    color: white;
+  }
